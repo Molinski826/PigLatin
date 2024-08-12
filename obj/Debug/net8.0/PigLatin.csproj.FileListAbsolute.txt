@@ -1,0 +1,15 @@
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.exe
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.deps.json
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.runtimeconfig.json
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.dll
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\bin\Debug\net8.0\PigLatin.pdb
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.AssemblyInfoInputs.cache
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.AssemblyInfo.cs
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.sourcelink.json
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.dll
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\refint\PigLatin.dll
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.pdb
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\PigLatin.genruntimeconfig.cache
+C:\Users\molin\OneDrive\Desktop\CSharpBootcamp_August2024\UNIT 2\PigLatin\PigLatin\obj\Debug\net8.0\ref\PigLatin.dll
